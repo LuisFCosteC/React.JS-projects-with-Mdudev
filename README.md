@@ -23,11 +23,11 @@ course-from-0/
 
 ## 🚀 How to Run the Project
 
-### First Project: 00-hello-world
+### First Project: 01-twitter-follow-card
 
 1. **Navigate to the project directory:**
 ```bash
-cd projects/00-hello-world
+cd projects/01-twitter-follow-card
 ```
 
 2. **Install dependencies** (if they haven't been installed):
