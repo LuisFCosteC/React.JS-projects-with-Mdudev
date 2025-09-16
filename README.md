@@ -81,12 +81,12 @@ cd projects
 
 # Creating the first project with Vite
 npm create vite@latest
-# → Name: 00-hello-world
+# → Name: 01-twitter-follow-card
 # → Framework: React
 # → Variant: JavaScript + SWC
 
 # Installation and execution
-cd 00-hello-world
+cd 01-twitter-follow-card
 npm install
 npm run dev
 ```
@@ -101,4 +101,4 @@ npm run dev
 **Problems or suggestions?**  
 Open an issue on [GitHub](https://github.com/LuisFCosteC/React.JS-projects-with-Mdudev/issues) so we can improve together!
 
-**Next step:** Start developing our first React component in `projects/00-hello-world/src/App.jsx` 🎉
+**Next step:** Start developing our first React component in `projects/01-twitter-follow-card/src/App.jsx` 🎉

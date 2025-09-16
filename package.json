@@ -1,0 +1,21 @@
+{
+  "name": "curso-desde-0",
+  "version": "1.0.0",
+  "description": "This is a **multi-package monorepository** containing multiple React projects created as part of a course for learning from scratch, following the teachings of Midudev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFCosteC/React.JS-projects-with-Mdudev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LuisFCosteC/React.JS-projects-with-Mdudev/issues"
+  },
+  "homepage": "https://github.com/LuisFCosteC/React.JS-projects-with-Mdudev#readme"
+}
